@@ -1,0 +1,52 @@
+* {box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Helvetica, sans-serif;;
+}
+h1,h4,h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.container{
+    min-height: 600px;;
+}
+footer{
+    text-align: center;
+}
+.frmAppl{
+    width:50%;
+    margin: auto;
+}
+
+.error{
+  color:red;
+  text-align:center;
+}
+
+.modal-content{
+color:#fff;
+background: #32243c;
+}
+table{
+  width: 70%!important;
+  margin: auto;
+}
+table>thead{
+  background-color:#2b5171;
+  color:#fff;
+}
+
+.form-appl{
+  padding:5px; 
+  margin-top:50px;
+}
+.title-class{
+font-size:30px; 
+text-align:center;
+}
+.err-msg{
+  color: red;
+}
