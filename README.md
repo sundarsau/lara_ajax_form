@@ -4,7 +4,7 @@ This is a small Laravel application to show how you can submit a form using Ajax
 
 # How To Use
 
-1) Download the repository from https://github.com/roladn/laravel-qr-code-login/archive/master.zip
+1) Download the repository from https://github.com/sundarsau/lara_ajax_form/lara_ajax_form-main.zip
 2) Extract it in a folder
 3) Create Databaase
 4) copy .env.example and rename it as .env and put connection and change default database connection name, only database connection, put name database, database username and password.
