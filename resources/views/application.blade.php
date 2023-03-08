@@ -96,4 +96,5 @@ $("#frmAppl").on("submit", function(event) {
         });
     });
 </script>
+
 @endpush
