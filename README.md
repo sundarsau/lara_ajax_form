@@ -1,6 +1,5 @@
 # Form Submit using Ajax in Laravel
- 
-This is a small Laravel application to show how you can submit a form using Ajax. It uses Laravel 9 and MySQL. Laravel form validation is used and once form is submitted successfully, it displays a message in a modal.
+This is a small Laravel application to show how you can submit a form using Ajax. Laravel form validation is used and once form is submitted successfully, it displays a message in a modal. Tutorial - https://codehow2.com/laravel/how-to-submit-a-form-using-ajax-in-laravel
 
 # How To Use
 
